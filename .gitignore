@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large raw image dataset
+data/full/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
